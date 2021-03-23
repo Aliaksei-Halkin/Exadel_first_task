@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Exadel_tasks.iml" filepath="$PROJECT_DIR$/.idea/Exadel_tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time_with_spring/time.iml" filepath="$PROJECT_DIR$/time_with_spring/time.iml" />
     </modules>
   </component>
 </project>
